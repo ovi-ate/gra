@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Bible Talk Invitation | Jordan Dixon</title>
+
+<style>
+
+	body {
+		background-image:
+	}
+	
+	p {
+		padding: 10px;
+        text-align: center;
+        
+	}
+	
+	h1 {
+    
+    }
+	
+	h2 {
+    
+    }
+	
+	h3 {
+    
+    }
+	
+	wrapper {
+		width: 500px;
+		height: 500px;
+		border: 10px, solid, #0067AC;
+		border-radius: 30px;
+		margin: auto;
+		display: block;
+		padding: auto;
+		background-color: rgba(255,255,255,.50)
+	}
+	
+    footer {
+    	width: 500px;
+        margin: auto;
+        display: block;
+        background-color: #0067AC;
+        border-radius: 30px;
+        
+    }
+    
+    strong {
+        text-align: center;
+        
+    }
+    
+</style>
+	
+</head>
+
+<body>
+	<wrapper>
+		<p>
+			HI FRIENDS
+		</p>
+	</wrapper>
+    
+    <footer>
+    	<strong>©Jordan Dixon, 2025</strong>
+        <p> This is a fictitious web page created solely for the purpose of education and training. All products and people associated with this web page are also fictitious. Any resemblance to real brands, products, or people is purely coincidental. Information provided about the product is also fictitious and should not be construed to be representative of actual products on the market in a similar product category.</p>
+    </footer>
+</body>
+</html>
